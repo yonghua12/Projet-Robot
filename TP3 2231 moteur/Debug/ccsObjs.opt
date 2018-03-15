@@ -1,1 +1,1 @@
-"./Driver_Motor_IR.obj" "./Driver_SPI.obj" "./init.obj" "./main.obj" "../lnk_msp430g2231.cmd" -l"libc.a" 
+"./Driver_Motor_IR.obj" "./Driver_SPI.obj" "./init.obj" "./main.obj" "../lnk_msp430g2231.cmd" -llibc.a 

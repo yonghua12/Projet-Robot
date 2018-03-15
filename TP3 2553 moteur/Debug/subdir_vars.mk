@@ -2,6 +2,8 @@
 # Automatically-generated file. Do not edit!
 ################################################################################
 
+SHELL = cmd.exe
+
 # Add inputs and outputs from these tool invocations to the build variables 
 CMD_SRCS += \
 ../lnk_msp430g2553.cmd 
@@ -17,6 +19,17 @@ C_SRCS += \
 ../main.c \
 ../robot.c 
 
+C_DEPS += \
+./Driver_ADC.d \
+./Driver_GPIO.d \
+./Driver_IR.d \
+./Driver_Motor.d \
+./Driver_SPI.d \
+./Driver_UART.d \
+./Scan_IR.d \
+./main.d \
+./robot.d 
+
 OBJS += \
 ./Driver_ADC.obj \
 ./Driver_GPIO.obj \
@@ -28,28 +41,6 @@ OBJS += \
 ./main.obj \
 ./robot.obj 
 
-C_DEPS += \
-./Driver_ADC.pp \
-./Driver_GPIO.pp \
-./Driver_IR.pp \
-./Driver_Motor.pp \
-./Driver_SPI.pp \
-./Driver_UART.pp \
-./Scan_IR.pp \
-./main.pp \
-./robot.pp 
-
-C_DEPS__QUOTED += \
-"Driver_ADC.pp" \
-"Driver_GPIO.pp" \
-"Driver_IR.pp" \
-"Driver_Motor.pp" \
-"Driver_SPI.pp" \
-"Driver_UART.pp" \
-"Scan_IR.pp" \
-"main.pp" \
-"robot.pp" 
-
 OBJS__QUOTED += \
 "Driver_ADC.obj" \
 "Driver_GPIO.obj" \
@@ -60,6 +51,17 @@ OBJS__QUOTED += \
 "Scan_IR.obj" \
 "main.obj" \
 "robot.obj" 
+
+C_DEPS__QUOTED += \
+"Driver_ADC.d" \
+"Driver_GPIO.d" \
+"Driver_IR.d" \
+"Driver_Motor.d" \
+"Driver_SPI.d" \
+"Driver_UART.d" \
+"Scan_IR.d" \
+"main.d" \
+"robot.d" 
 
 C_SRCS__QUOTED += \
 "../Driver_ADC.c" \
