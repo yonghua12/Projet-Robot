@@ -1,0 +1,156 @@
+
+
+------ Executable Size Increase required ------
+
+Phase : Main Static Analysis - Stat
+Group : 2231
+Source : X:\busCom\2231-1\Motor.c
+GLH File : C:\LDRA_Workarea\2231_tbwrkfls\2231.glh
+Executable : C:\LDRA_Toolsuite\c\cstat.exe
+Message produced on: Wed Mar 21 2018 at 09:30:47
+
+  Brackets do not match on line           63
+
+
+ The message below may have been generated as a result
+ of incorrect LDRA Testbed Analysis Scope settings.
+ Check that your code compiles and as part of this 
+ process, document the compiler preprocessor settings.
+ These settings then need to be reflected in the LDRA 
+ Testbed data file SYSPPVAR.DAT. See Macro Expansion in 
+ the User Manual for further details.
+
+
+      1 NUMBER OF ENTRIES 
+      4     34     24 X:\busCom\2231-1\Motor.h
+     83 NUMBER OF LINES
+
+
+      1 FILES HAVE BEEN OPENED FOR INCLUSION. THEY ARE:
+
+           
+      X:\busCom\2231-1\Motor.h
+
+ The total line number is:       63
+ The local line number is:       32
+ in the file under test: 
+
+ *******************************************************************************
+ ******                  IMPLEMENTATION RESTRICTION IN CSTAT         1    ******
+ ******                    THE FOLLOWING TABLE IS TOO SMALL               ******
+ ******                CONTACT TESTBED MAINTENANCE EITHER                 ******
+ ******                            LOCALLY, OR                            ******
+ ******                        AT L. D. R. A.  LTD.                       ******
+ ******                        TEL. NO. (0151) 649 9300                   ******
+ ******                        FAX. NO. (0151) 649 9666                   ******
+ ******                        email: support@ldra.com                    ******
+ ******                   QUOTING THE FOLLOWING MESSAGE.                  ******
+ *******************************************************************************
+
+
+
+ UNCLASSIFIED FAULT FOUND 
+ MONMRK =     30 PASS =        2 CURLIN =       63 LINENO =       83
+
+
+------ Executable Size Increase required ------
+
+Phase : Main Static Analysis - Stat
+Group : 2231
+Source : X:\busCom\2231-1\Motor.c
+GLH File : C:\LDRA_Workarea\2231_tbwrkfls\2231.glh
+Executable : C:\LDRA_Toolsuite\c\cstat_200.exe
+Message produced on: Wed Mar 21 2018 at 09:30:51
+
+  Brackets do not match on line           63
+
+
+ The message below may have been generated as a result
+ of incorrect LDRA Testbed Analysis Scope settings.
+ Check that your code compiles and as part of this 
+ process, document the compiler preprocessor settings.
+ These settings then need to be reflected in the LDRA 
+ Testbed data file SYSPPVAR.DAT. See Macro Expansion in 
+ the User Manual for further details.
+
+
+      1 NUMBER OF ENTRIES 
+      4     34     24 X:\busCom\2231-1\Motor.h
+     83 NUMBER OF LINES
+
+
+      1 FILES HAVE BEEN OPENED FOR INCLUSION. THEY ARE:
+
+           
+      X:\busCom\2231-1\Motor.h
+
+ The total line number is:       63
+ The local line number is:       32
+ in the file under test: 
+
+ *******************************************************************************
+ ******                  IMPLEMENTATION RESTRICTION IN CSTAT         1    ******
+ ******                    THE FOLLOWING TABLE IS TOO SMALL               ******
+ ******                CONTACT TESTBED MAINTENANCE EITHER                 ******
+ ******                            LOCALLY, OR                            ******
+ ******                        AT L. D. R. A.  LTD.                       ******
+ ******                        TEL. NO. (0151) 649 9300                   ******
+ ******                        FAX. NO. (0151) 649 9666                   ******
+ ******                        email: support@ldra.com                    ******
+ ******                   QUOTING THE FOLLOWING MESSAGE.                  ******
+ *******************************************************************************
+
+
+
+ UNCLASSIFIED FAULT FOUND 
+ MONMRK =     30 PASS =        2 CURLIN =       63 LINENO =       83
+
+Phase : Main Static Analysis - Stat
+Group : 2231
+Source : X:\busCom\2231-1\Motor.c
+GLH File : C:\LDRA_Workarea\2231_tbwrkfls\2231.glh
+Executable : C:\LDRA_Toolsuite\c\cstat_900.exe
+Message produced on: Wed Mar 21 2018 at 09:30:54
+
+  Brackets do not match on line           63
+
+
+ The message below may have been generated as a result
+ of incorrect LDRA Testbed Analysis Scope settings.
+ Check that your code compiles and as part of this 
+ process, document the compiler preprocessor settings.
+ These settings then need to be reflected in the LDRA 
+ Testbed data file SYSPPVAR.DAT. See Macro Expansion in 
+ the User Manual for further details.
+
+
+      1 NUMBER OF ENTRIES 
+      4     34     24 X:\busCom\2231-1\Motor.h
+     83 NUMBER OF LINES
+
+
+      1 FILES HAVE BEEN OPENED FOR INCLUSION. THEY ARE:
+
+           
+      X:\busCom\2231-1\Motor.h
+
+ The total line number is:       63
+ The local line number is:       32
+ in the file under test: 
+
+ *******************************************************************************
+ ******                  IMPLEMENTATION RESTRICTION IN CSTAT         1    ******
+ ******                    THE FOLLOWING TABLE IS TOO SMALL               ******
+ ******                CONTACT TESTBED MAINTENANCE EITHER                 ******
+ ******                            LOCALLY, OR                            ******
+ ******                        AT L. D. R. A.  LTD.                       ******
+ ******                        TEL. NO. (0151) 649 9300                   ******
+ ******                        FAX. NO. (0151) 649 9666                   ******
+ ******                        email: support@ldra.com                    ******
+ ******                   QUOTING THE FOLLOWING MESSAGE.                  ******
+ *******************************************************************************
+
+
+
+ UNCLASSIFIED FAULT FOUND 
+ MONMRK =     30 PASS =        2 CURLIN =       63 LINENO =       83
